@@ -29,6 +29,12 @@ The project uses the [Online Retail Dataset] containing sales and customer data.
 ## Exploratory Data Analysis
 
 We explored customer purchasing patterns, identified top-selling products, and visualized trends in sales over time. 
+1) The retail store is interested in viewing the Time series of the revenue data for the year 2011.
+2) Interested in viewing the top 10 countries that are generating the highest revenue?
+3) Top 10 countries that are generating the high revenue without the United Kingdom in this visual
+4) To view the information on the top 10 customers by revenue
+5) To view information on the bottom 10 customer by revenue
+6) To view the Top 10 Customers Buy a top Products
 
 # Customer Segmentation with Machine Learning
 
